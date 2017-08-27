@@ -1,0 +1,27 @@
+h1 {
+  color: #09A5E8;
+  font-size: 40px;
+}
+
+h2 {
+  margin: 0;
+}
+
+.titulo {
+  font-weight: 200;
+}
+
+.sangria {
+  margin-left: 20px;
+}
+
+.contenedor {
+  margin-left: 24px;
+  margin-top: 30px;
+  font-family: Futura;
+}
+
+.profesion {
+  font-size: 18px;
+  text-decoration: underline;
+}
